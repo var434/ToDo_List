@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: grey;
+}
+.navbar{
+    background: #99CCCC;
+}
+
+.navbar-brand{
+    margin-left: 10%;
+    font-weight: 700;
+}
+.search{
+    margin-right: 8%;
+}
+.header{
+    text-align: center;
+    margin-top: 3%;
+}
+.table .btnedit{
+    color: green;
+    cursor: pointer;
+}
+.table .btnredo{
+    color: steelblue;
+    cursor: pointer;
+}
+.table .btndelete{
+    color:tomato;
+    cursor: pointer;
+}
+
